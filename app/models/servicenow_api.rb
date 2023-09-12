@@ -1,0 +1,2 @@
+class ServicenowApi < ApplicationRecord
+end
